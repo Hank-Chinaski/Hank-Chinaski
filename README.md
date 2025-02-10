@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hank-Chinaski
-- 👀 I want to make NFTs.
-- 🌱 I need to learn everything from scratch.
-- 💞️ I’m looking to collaborate on NFT projects and can offer video editing or animations in exchange.
+- 👀 Here to code things I need and can't find
+- 🌱 I'm learning how to do everything from scratch
+- 💞️ Open to exhanging knowledge and skillsets with seasoned coders (Python, JS, TypeScript, etc)
+- 👀 I can offer (Unreal Engine, Blender, After Effects, Compostiting, 3D camera solve, etc) reach out if you want to trade 🧠 
 - 📫 hankychinaski@protonmail.com
 
 <!---
